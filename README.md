@@ -1,6 +1,3 @@
-# Algorithmic Trading in the FOREX Market
-
-![alt text](https://github.com/amitpingale92/Algorithmic-Trading-in-the-FOREX-Market-/blob/master/0.Data/logo.png "Logo Title")
 
 ## Description
 * The price of a FOREX market is dependent on numerous inter-linked factors that contribute to volatility in the stock. 
@@ -34,17 +31,5 @@
 * [TensorFlow](https://www.tensorflow.org)
 * [Keras](https://keras.io)
 
-## Requirements
-* Jupyter Notebook (Anaconda Distribution Prefered)
-* Install python dependencies
-    * [requirements.sh](https://github.com/amitpingale92/Algorithmic-Trading-in-the-FOREX-Market-/blob/master/requirements.sh)
-
-## Authors
-* Amit Pingale
-* Vikas Kumar
-* Shubham Patel
-
-## Licence
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/amitpingale92/Algorithmic-Trading-in-the-FOREX-Market-/blob/master/LICENSE) file for details
 
 
